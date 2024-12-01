@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CafePortalAPI/bin/Debug/net8.0
+/CafePortalAPI/Migrations
+/CafePortalAPI/obj
+/CafePortalAPI/path/to/obj
